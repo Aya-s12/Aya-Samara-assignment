@@ -1,0 +1,1081 @@
+
+=== Random Data (Size = 100) ===
+Run 1 - Bubble Sort: 0 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.001 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0 sec
+Run 10 - Merge Sort: 0 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0001 sec
+Merge Sort Average: 0 sec
+Quick Sort Average: 0 sec
+
+=== Partially Sorted Data (Size = 100) ===
+Run 1 - Bubble Sort: 0 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0 sec
+Run 10 - Merge Sort: 0 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0 sec
+Merge Sort Average: 0 sec
+Quick Sort Average: 0 sec
+
+=== Reverse Sorted Data (Size = 100) ===
+Run 1 - Bubble Sort: 0 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0 sec
+Run 10 - Merge Sort: 0.001 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0 sec
+Merge Sort Average: 0.0001 sec
+Quick Sort Average: 0 sec
+
+=== Random Data (Size = 500) ===
+Run 1 - Bubble Sort: 0.001 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0.001 sec
+Run 3 - Bubble Sort: 0 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.001 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0 sec
+Run 6 - Merge Sort: 0.001 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.001 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0 sec
+Run 10 - Merge Sort: 0 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0003 sec
+Merge Sort Average: 0.0001 sec
+Quick Sort Average: 0.0001 sec
+
+=== Partially Sorted Data (Size = 500) ===
+Run 1 - Bubble Sort: 0.001 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0 sec
+Run 5 - Merge Sort: 0.001 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.001 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0 sec
+Run 10 - Merge Sort: 0.001 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0002 sec
+Merge Sort Average: 0.0002 sec
+Quick Sort Average: 0 sec
+
+=== Reverse Sorted Data (Size = 500) ===
+Run 1 - Bubble Sort: 0 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.001 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0 sec
+Run 3 - Merge Sort: 0.001 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.001 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.001 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0 sec
+Run 9 - Merge Sort: 0.001 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0 sec
+Run 10 - Merge Sort: 0 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0003 sec
+Merge Sort Average: 0.0002 sec
+Quick Sort Average: 0 sec
+
+=== Random Data (Size = 1000) ===
+Run 1 - Bubble Sort: 0 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.001 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0.001 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.001 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0.001 sec
+Run 5 - Bubble Sort: 0.001 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0 sec
+Run 6 - Merge Sort: 0.001 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.001 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0.001 sec
+Run 10 - Merge Sort: 0.001 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0006 sec
+Merge Sort Average: 0.0002 sec
+Quick Sort Average: 0.0001 sec
+
+=== Partially Sorted Data (Size = 1000) ===
+Run 1 - Bubble Sort: 0 sec
+Run 1 - Merge Sort: 0.001 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.001 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.001 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0 sec
+Run 5 - Merge Sort: 0.001 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.001 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.001 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.001 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0 sec
+Run 10 - Merge Sort: 0.001 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0005 sec
+Merge Sort Average: 0.0003 sec
+Quick Sort Average: 0 sec
+
+=== Reverse Sorted Data (Size = 1000) ===
+Run 1 - Bubble Sort: 0.001 sec
+Run 1 - Merge Sort: 0.001 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.001 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.001 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.001 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.001 sec
+Run 7 - Merge Sort: 0.001 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.001 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0.001 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0.001 sec
+Run 10 - Merge Sort: 0.001 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0008 sec
+Merge Sort Average: 0.0003 sec
+Quick Sort Average: 0 sec
+
+=== Random Data (Size = 2000) ===
+Run 1 - Bubble Sort: 0.003 sec
+Run 1 - Merge Sort: 0.001 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.003 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0.001 sec
+Run 3 - Bubble Sort: 0.002 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.002 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.002 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.001 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.002 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.002 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0.002 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0.001 sec
+Run 10 - Bubble Sort: 0.002 sec
+Run 10 - Merge Sort: 0 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0021 sec
+Merge Sort Average: 0.0001 sec
+Quick Sort Average: 0.0002 sec
+
+=== Partially Sorted Data (Size = 2000) ===
+Run 1 - Bubble Sort: 0.002 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.001 sec
+Run 2 - Merge Sort: 0 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0.002 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.001 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.001 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.001 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.002 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0.002 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0.001 sec
+Run 10 - Merge Sort: 0 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0013 sec
+Merge Sort Average: 0 sec
+Quick Sort Average: 0 sec
+
+=== Reverse Sorted Data (Size = 2000) ===
+Run 1 - Bubble Sort: 0.002 sec
+Run 1 - Merge Sort: 0 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.002 sec
+Run 2 - Merge Sort: 0.001 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0.002 sec
+Run 3 - Merge Sort: 0 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.002 sec
+Run 4 - Merge Sort: 0 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.002 sec
+Run 5 - Merge Sort: 0 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.002 sec
+Run 6 - Merge Sort: 0 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.002 sec
+Run 7 - Merge Sort: 0 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.002 sec
+Run 8 - Merge Sort: 0 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0.001 sec
+Run 9 - Merge Sort: 0 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0.002 sec
+Run 10 - Merge Sort: 0 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0019 sec
+Merge Sort Average: 0.0001 sec
+Quick Sort Average: 0 sec
+
+=== Random Data (Size = 5000) ===
+Run 1 - Bubble Sort: 0.017 sec
+Run 1 - Merge Sort: 0.002 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.024 sec
+Run 2 - Merge Sort: 0.001 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0.018 sec
+Run 3 - Merge Sort: 0.001 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.02 sec
+Run 4 - Merge Sort: 0.002 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.021 sec
+Run 5 - Merge Sort: 0.002 sec
+Run 5 - Quick Sort: 0.001 sec
+Run 6 - Bubble Sort: 0.02 sec
+Run 6 - Merge Sort: 0.002 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.024 sec
+Run 7 - Merge Sort: 0.002 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.026 sec
+Run 8 - Merge Sort: 0.002 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0.021 sec
+Run 9 - Merge Sort: 0.002 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0.02 sec
+Run 10 - Merge Sort: 0.001 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0211 sec
+Merge Sort Average: 0.0017 sec
+Quick Sort Average: 0.0001 sec
+
+=== Partially Sorted Data (Size = 5000) ===
+Run 1 - Bubble Sort: 0.012 sec
+Run 1 - Merge Sort: 0.001 sec
+Run 1 - Quick Sort: 0.001 sec
+Run 2 - Bubble Sort: 0.014 sec
+Run 2 - Merge Sort: 0.001 sec
+Run 2 - Quick Sort: 0.002 sec
+Run 3 - Bubble Sort: 0.012 sec
+Run 3 - Merge Sort: 0.001 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.013 sec
+Run 4 - Merge Sort: 0.001 sec
+Run 4 - Quick Sort: 0.001 sec
+Run 5 - Bubble Sort: 0.014 sec
+Run 5 - Merge Sort: 0.002 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.014 sec
+Run 6 - Merge Sort: 0.001 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.013 sec
+Run 7 - Merge Sort: 0.001 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.011 sec
+Run 8 - Merge Sort: 0.001 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0.014 sec
+Run 9 - Merge Sort: 0.001 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0.014 sec
+Run 10 - Merge Sort: 0.001 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0131 sec
+Merge Sort Average: 0.0011 sec
+Quick Sort Average: 0.0004 sec
+
+=== Reverse Sorted Data (Size = 5000) ===
+Run 1 - Bubble Sort: 0.013 sec
+Run 1 - Merge Sort: 0.001 sec
+Run 1 - Quick Sort: 0.001 sec
+Run 2 - Bubble Sort: 0.015 sec
+Run 2 - Merge Sort: 0.001 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0.016 sec
+Run 3 - Merge Sort: 0.002 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.014 sec
+Run 4 - Merge Sort: 0.002 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.016 sec
+Run 5 - Merge Sort: 0.002 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.016 sec
+Run 6 - Merge Sort: 0.001 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.015 sec
+Run 7 - Merge Sort: 0.001 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.016 sec
+Run 8 - Merge Sort: 0.001 sec
+Run 8 - Quick Sort: 0.001 sec
+Run 9 - Bubble Sort: 0.011 sec
+Run 9 - Merge Sort: 0.003 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0.009 sec
+Run 10 - Merge Sort: 0.001 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0141 sec
+Merge Sort Average: 0.0015 sec
+Quick Sort Average: 0.0002 sec
+
+=== Random Data (Size = 10000) ===
+Run 1 - Bubble Sort: 0.09 sec
+Run 1 - Merge Sort: 0.004 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.097 sec
+Run 2 - Merge Sort: 0.002 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0.103 sec
+Run 3 - Merge Sort: 0.002 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.093 sec
+Run 4 - Merge Sort: 0.003 sec
+Run 4 - Quick Sort: 0.001 sec
+Run 5 - Bubble Sort: 0.097 sec
+Run 5 - Merge Sort: 0.001 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.107 sec
+Run 6 - Merge Sort: 0.004 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.1 sec
+Run 7 - Merge Sort: 0.003 sec
+Run 7 - Quick Sort: 0.001 sec
+Run 8 - Bubble Sort: 0.108 sec
+Run 8 - Merge Sort: 0.003 sec
+Run 8 - Quick Sort: 0.001 sec
+Run 9 - Bubble Sort: 0.095 sec
+Run 9 - Merge Sort: 0.002 sec
+Run 9 - Quick Sort: 0.001 sec
+Run 10 - Bubble Sort: 0.104 sec
+Run 10 - Merge Sort: 0.004 sec
+Run 10 - Quick Sort: 0.001 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0994 sec
+Merge Sort Average: 0.0028 sec
+Quick Sort Average: 0.0005 sec
+
+=== Partially Sorted Data (Size = 10000) ===
+Run 1 - Bubble Sort: 0.069 sec
+Run 1 - Merge Sort: 0.002 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.061 sec
+Run 2 - Merge Sort: 0.002 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0.063 sec
+Run 3 - Merge Sort: 0.003 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.055 sec
+Run 4 - Merge Sort: 0.002 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.063 sec
+Run 5 - Merge Sort: 0.002 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.057 sec
+Run 6 - Merge Sort: 0.002 sec
+Run 6 - Quick Sort: 0.001 sec
+Run 7 - Bubble Sort: 0.061 sec
+Run 7 - Merge Sort: 0.003 sec
+Run 7 - Quick Sort: 0 sec
+Run 8 - Bubble Sort: 0.052 sec
+Run 8 - Merge Sort: 0.002 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0.066 sec
+Run 9 - Merge Sort: 0.003 sec
+Run 9 - Quick Sort: 0 sec
+Run 10 - Bubble Sort: 0.065 sec
+Run 10 - Merge Sort: 0.002 sec
+Run 10 - Quick Sort: 0 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0612 sec
+Merge Sort Average: 0.0023 sec
+Quick Sort Average: 0.0001 sec
+
+=== Reverse Sorted Data (Size = 10000) ===
+Run 1 - Bubble Sort: 0.058 sec
+Run 1 - Merge Sort: 0.002 sec
+Run 1 - Quick Sort: 0 sec
+Run 2 - Bubble Sort: 0.064 sec
+Run 2 - Merge Sort: 0.002 sec
+Run 2 - Quick Sort: 0 sec
+Run 3 - Bubble Sort: 0.06 sec
+Run 3 - Merge Sort: 0.002 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.055 sec
+Run 4 - Merge Sort: 0.002 sec
+Run 4 - Quick Sort: 0 sec
+Run 5 - Bubble Sort: 0.058 sec
+Run 5 - Merge Sort: 0.001 sec
+Run 5 - Quick Sort: 0 sec
+Run 6 - Bubble Sort: 0.066 sec
+Run 6 - Merge Sort: 0.003 sec
+Run 6 - Quick Sort: 0 sec
+Run 7 - Bubble Sort: 0.061 sec
+Run 7 - Merge Sort: 0.002 sec
+Run 7 - Quick Sort: 0.001 sec
+Run 8 - Bubble Sort: 0.065 sec
+Run 8 - Merge Sort: 0.003 sec
+Run 8 - Quick Sort: 0 sec
+Run 9 - Bubble Sort: 0.06 sec
+Run 9 - Merge Sort: 0.002 sec
+Run 9 - Quick Sort: 0.001 sec
+Run 10 - Bubble Sort: 0.06 sec
+Run 10 - Merge Sort: 0.003 sec
+Run 10 - Quick Sort: 0.001 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.0607 sec
+Merge Sort Average: 0.0022 sec
+Quick Sort Average: 0.0003 sec
+
+=== Random Data (Size = 20000) ===
+Run 1 - Bubble Sort: 0.462 sec
+Run 1 - Merge Sort: 0.006 sec
+Run 1 - Quick Sort: 0.001 sec
+Run 2 - Bubble Sort: 0.47 sec
+Run 2 - Merge Sort: 0.006 sec
+Run 2 - Quick Sort: 0.001 sec
+Run 3 - Bubble Sort: 0.48 sec
+Run 3 - Merge Sort: 0.004 sec
+Run 3 - Quick Sort: 0.001 sec
+Run 4 - Bubble Sort: 0.475 sec
+Run 4 - Merge Sort: 0.006 sec
+Run 4 - Quick Sort: 0.001 sec
+Run 5 - Bubble Sort: 0.473 sec
+Run 5 - Merge Sort: 0.006 sec
+Run 5 - Quick Sort: 0.001 sec
+Run 6 - Bubble Sort: 0.446 sec
+Run 6 - Merge Sort: 0.008 sec
+Run 6 - Quick Sort: 0.001 sec
+Run 7 - Bubble Sort: 0.441 sec
+Run 7 - Merge Sort: 0.005 sec
+Run 7 - Quick Sort: 0.001 sec
+Run 8 - Bubble Sort: 0.455 sec
+Run 8 - Merge Sort: 0.006 sec
+Run 8 - Quick Sort: 0.001 sec
+Run 9 - Bubble Sort: 0.459 sec
+Run 9 - Merge Sort: 0.005 sec
+Run 9 - Quick Sort: 0.001 sec
+Run 10 - Bubble Sort: 0.484 sec
+Run 10 - Merge Sort: 0.007 sec
+Run 10 - Quick Sort: 0.001 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.4645 sec
+Merge Sort Average: 0.0059 sec
+Quick Sort Average: 0.001 sec
+
+=== Partially Sorted Data (Size = 20000) ===
+Run 1 - Bubble Sort: 0.369 sec
+Run 1 - Merge Sort: 0.007 sec
+Run 1 - Quick Sort: 0.001 sec
+Run 2 - Bubble Sort: 0.479 sec
+Run 2 - Merge Sort: 0.007 sec
+Run 2 - Quick Sort: 0.001 sec
+Run 3 - Bubble Sort: 0.408 sec
+Run 3 - Merge Sort: 0.005 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.403 sec
+Run 4 - Merge Sort: 0.01 sec
+Run 4 - Quick Sort: 0.001 sec
+Run 5 - Bubble Sort: 0.368 sec
+Run 5 - Merge Sort: 0.005 sec
+Run 5 - Quick Sort: 0.001 sec
+Run 6 - Bubble Sort: 0.358 sec
+Run 6 - Merge Sort: 0.007 sec
+Run 6 - Quick Sort: 0.001 sec
+Run 7 - Bubble Sort: 0.487 sec
+Run 7 - Merge Sort: 0.006 sec
+Run 7 - Quick Sort: 0.001 sec
+Run 8 - Bubble Sort: 0.38 sec
+Run 8 - Merge Sort: 0.006 sec
+Run 8 - Quick Sort: 0.001 sec
+Run 9 - Bubble Sort: 0.339 sec
+Run 9 - Merge Sort: 0.006 sec
+Run 9 - Quick Sort: 0.002 sec
+Run 10 - Bubble Sort: 0.357 sec
+Run 10 - Merge Sort: 0.007 sec
+Run 10 - Quick Sort: 0.001 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.3948 sec
+Merge Sort Average: 0.0066 sec
+Quick Sort Average: 0.001 sec
+
+=== Reverse Sorted Data (Size = 20000) ===
+Run 1 - Bubble Sort: 0.282 sec
+Run 1 - Merge Sort: 0.006 sec
+Run 1 - Quick Sort: 0.001 sec
+Run 2 - Bubble Sort: 0.306 sec
+Run 2 - Merge Sort: 0.002 sec
+Run 2 - Quick Sort: 0.007 sec
+Run 3 - Bubble Sort: 0.325 sec
+Run 3 - Merge Sort: 0.002 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.323 sec
+Run 4 - Merge Sort: 0.005 sec
+Run 4 - Quick Sort: 0.001 sec
+Run 5 - Bubble Sort: 0.275 sec
+Run 5 - Merge Sort: 0.007 sec
+Run 5 - Quick Sort: 0.001 sec
+Run 6 - Bubble Sort: 0.355 sec
+Run 6 - Merge Sort: 0.01 sec
+Run 6 - Quick Sort: 0.002 sec
+Run 7 - Bubble Sort: 0.36 sec
+Run 7 - Merge Sort: 0.006 sec
+Run 7 - Quick Sort: 0.001 sec
+Run 8 - Bubble Sort: 0.331 sec
+Run 8 - Merge Sort: 0.007 sec
+Run 8 - Quick Sort: 0.001 sec
+Run 9 - Bubble Sort: 0.302 sec
+Run 9 - Merge Sort: 0.007 sec
+Run 9 - Quick Sort: 0.001 sec
+Run 10 - Bubble Sort: 0.32 sec
+Run 10 - Merge Sort: 0.006 sec
+Run 10 - Quick Sort: 0.001 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.3179 sec
+Merge Sort Average: 0.0058 sec
+Quick Sort Average: 0.0016 sec
+
+=== Random Data (Size = 30000) ===
+Run 1 - Bubble Sort: 1.524 sec
+Run 1 - Merge Sort: 0.012 sec
+Run 1 - Quick Sort: 0.002 sec
+Run 2 - Bubble Sort: 1.502 sec
+Run 2 - Merge Sort: 0.011 sec
+Run 2 - Quick Sort: 0.002 sec
+Run 3 - Bubble Sort: 1.45 sec
+Run 3 - Merge Sort: 0.012 sec
+Run 3 - Quick Sort: 0.002 sec
+Run 4 - Bubble Sort: 1.696 sec
+Run 4 - Merge Sort: 0.019 sec
+Run 4 - Quick Sort: 0.003 sec
+Run 5 - Bubble Sort: 1.855 sec
+Run 5 - Merge Sort: 0.013 sec
+Run 5 - Quick Sort: 0.003 sec
+Run 6 - Bubble Sort: 1.43 sec
+Run 6 - Merge Sort: 0.01 sec
+Run 6 - Quick Sort: 0.002 sec
+Run 7 - Bubble Sort: 1.619 sec
+Run 7 - Merge Sort: 0.019 sec
+Run 7 - Quick Sort: 0.003 sec
+Run 8 - Bubble Sort: 1.873 sec
+Run 8 - Merge Sort: 0.017 sec
+Run 8 - Quick Sort: 0.011 sec
+Run 9 - Bubble Sort: 1.653 sec
+Run 9 - Merge Sort: 0.014 sec
+Run 9 - Quick Sort: 0.003 sec
+Run 10 - Bubble Sort: 1.597 sec
+Run 10 - Merge Sort: 0.012 sec
+Run 10 - Quick Sort: 0.003 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 1.6199 sec
+Merge Sort Average: 0.0139 sec
+Quick Sort Average: 0.0034 sec
+
+=== Partially Sorted Data (Size = 30000) ===
+Run 1 - Bubble Sort: 1.123 sec
+Run 1 - Merge Sort: 0.011 sec
+Run 1 - Quick Sort: 0.002 sec
+Run 2 - Bubble Sort: 1.199 sec
+Run 2 - Merge Sort: 0.02 sec
+Run 2 - Quick Sort: 0.004 sec
+Run 3 - Bubble Sort: 1.155 sec
+Run 3 - Merge Sort: 0.017 sec
+Run 3 - Quick Sort: 0.004 sec
+Run 4 - Bubble Sort: 1.008 sec
+Run 4 - Merge Sort: 0.012 sec
+Run 4 - Quick Sort: 0.002 sec
+Run 5 - Bubble Sort: 1.091 sec
+Run 5 - Merge Sort: 0.009 sec
+Run 5 - Quick Sort: 0.002 sec
+Run 6 - Bubble Sort: 0.935 sec
+Run 6 - Merge Sort: 0.01 sec
+Run 6 - Quick Sort: 0.001 sec
+Run 7 - Bubble Sort: 0.881 sec
+Run 7 - Merge Sort: 0.008 sec
+Run 7 - Quick Sort: 0.002 sec
+Run 8 - Bubble Sort: 1.019 sec
+Run 8 - Merge Sort: 0.009 sec
+Run 8 - Quick Sort: 0.002 sec
+Run 9 - Bubble Sort: 0.907 sec
+Run 9 - Merge Sort: 0.009 sec
+Run 9 - Quick Sort: 0.002 sec
+Run 10 - Bubble Sort: 1.005 sec
+Run 10 - Merge Sort: 0.009 sec
+Run 10 - Quick Sort: 0.001 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 1.0323 sec
+Merge Sort Average: 0.0114 sec
+Quick Sort Average: 0.0022 sec
+
+=== Reverse Sorted Data (Size = 30000) ===
+Run 1 - Bubble Sort: 0.693 sec
+Run 1 - Merge Sort: 0.01 sec
+Run 1 - Quick Sort: 0.002 sec
+Run 2 - Bubble Sort: 0.766 sec
+Run 2 - Merge Sort: 0.008 sec
+Run 2 - Quick Sort: 0.001 sec
+Run 3 - Bubble Sort: 0.667 sec
+Run 3 - Merge Sort: 0.008 sec
+Run 3 - Quick Sort: 0 sec
+Run 4 - Bubble Sort: 0.745 sec
+Run 4 - Merge Sort: 0.01 sec
+Run 4 - Quick Sort: 0.002 sec
+Run 5 - Bubble Sort: 0.751 sec
+Run 5 - Merge Sort: 0.01 sec
+Run 5 - Quick Sort: 0.002 sec
+Run 6 - Bubble Sort: 0.678 sec
+Run 6 - Merge Sort: 0.008 sec
+Run 6 - Quick Sort: 0.002 sec
+Run 7 - Bubble Sort: 0.699 sec
+Run 7 - Merge Sort: 0.01 sec
+Run 7 - Quick Sort: 0.001 sec
+Run 8 - Bubble Sort: 0.707 sec
+Run 8 - Merge Sort: 0.01 sec
+Run 8 - Quick Sort: 0.002 sec
+Run 9 - Bubble Sort: 0.67 sec
+Run 9 - Merge Sort: 0.008 sec
+Run 9 - Quick Sort: 0.001 sec
+Run 10 - Bubble Sort: 0.675 sec
+Run 10 - Merge Sort: 0.016 sec
+Run 10 - Quick Sort: 0.002 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 0.7051 sec
+Merge Sort Average: 0.0098 sec
+Quick Sort Average: 0.0015 sec
+
+=== Random Data (Size = 50000) ===
+Run 1 - Bubble Sort: 4.333 sec
+Run 1 - Merge Sort: 0.024 sec
+Run 1 - Quick Sort: 0.008 sec
+Run 2 - Bubble Sort: 4.315 sec
+Run 2 - Merge Sort: 0.019 sec
+Run 2 - Quick Sort: 0.004 sec
+Run 3 - Bubble Sort: 4.508 sec
+Run 3 - Merge Sort: 0.018 sec
+Run 3 - Quick Sort: 0.003 sec
+Run 4 - Bubble Sort: 4.844 sec
+Run 4 - Merge Sort: 0.018 sec
+Run 4 - Quick Sort: 0.003 sec
+Run 5 - Bubble Sort: 4.075 sec
+Run 5 - Merge Sort: 0.017 sec
+Run 5 - Quick Sort: 0.003 sec
+Run 6 - Bubble Sort: 4.054 sec
+Run 6 - Merge Sort: 0.043 sec
+Run 6 - Quick Sort: 0.007 sec
+Run 7 - Bubble Sort: 4.506 sec
+Run 7 - Merge Sort: 0.022 sec
+Run 7 - Quick Sort: 0.004 sec
+Run 8 - Bubble Sort: 4.343 sec
+Run 8 - Merge Sort: 0.019 sec
+Run 8 - Quick Sort: 0.004 sec
+Run 9 - Bubble Sort: 3.921 sec
+Run 9 - Merge Sort: 0.019 sec
+Run 9 - Quick Sort: 0.004 sec
+Run 10 - Bubble Sort: 3.97 sec
+Run 10 - Merge Sort: 0.028 sec
+Run 10 - Quick Sort: 0.007 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 4.2869 sec
+Merge Sort Average: 0.0227 sec
+Quick Sort Average: 0.0047 sec
+
+=== Partially Sorted Data (Size = 50000) ===
+Run 1 - Bubble Sort: 2.696 sec
+Run 1 - Merge Sort: 0.016 sec
+Run 1 - Quick Sort: 0.003 sec
+Run 2 - Bubble Sort: 2.55 sec
+Run 2 - Merge Sort: 0.018 sec
+Run 2 - Quick Sort: 0.004 sec
+Run 3 - Bubble Sort: 2.738 sec
+Run 3 - Merge Sort: 0.018 sec
+Run 3 - Quick Sort: 0.003 sec
+Run 4 - Bubble Sort: 3.094 sec
+Run 4 - Merge Sort: 0.019 sec
+Run 4 - Quick Sort: 0.004 sec
+Run 5 - Bubble Sort: 3.063 sec
+Run 5 - Merge Sort: 0.019 sec
+Run 5 - Quick Sort: 0.003 sec
+Run 6 - Bubble Sort: 2.653 sec
+Run 6 - Merge Sort: 0.021 sec
+Run 6 - Quick Sort: 0.004 sec
+Run 7 - Bubble Sort: 2.752 sec
+Run 7 - Merge Sort: 0.019 sec
+Run 7 - Quick Sort: 0.004 sec
+Run 8 - Bubble Sort: 2.613 sec
+Run 8 - Merge Sort: 0.014 sec
+Run 8 - Quick Sort: 0.004 sec
+Run 9 - Bubble Sort: 2.747 sec
+Run 9 - Merge Sort: 0.02 sec
+Run 9 - Quick Sort: 0.003 sec
+Run 10 - Bubble Sort: 3.806 sec
+Run 10 - Merge Sort: 0.026 sec
+Run 10 - Quick Sort: 0.004 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 2.8712 sec
+Merge Sort Average: 0.019 sec
+Quick Sort Average: 0.0036 sec
+
+=== Reverse Sorted Data (Size = 50000) ===
+Run 1 - Bubble Sort: 2.468 sec
+Run 1 - Merge Sort: 0.018 sec
+Run 1 - Quick Sort: 0.002 sec
+Run 2 - Bubble Sort: 2.234 sec
+Run 2 - Merge Sort: 0.018 sec
+Run 2 - Quick Sort: 0.001 sec
+Run 3 - Bubble Sort: 2.097 sec
+Run 3 - Merge Sort: 0.025 sec
+Run 3 - Quick Sort: 0.001 sec
+Run 4 - Bubble Sort: 2.266 sec
+Run 4 - Merge Sort: 0.04 sec
+Run 4 - Quick Sort: 0.004 sec
+Run 5 - Bubble Sort: 2.304 sec
+Run 5 - Merge Sort: 0.017 sec
+Run 5 - Quick Sort: 0.002 sec
+Run 6 - Bubble Sort: 2.047 sec
+Run 6 - Merge Sort: 0.02 sec
+Run 6 - Quick Sort: 0.01 sec
+Run 7 - Bubble Sort: 2.121 sec
+Run 7 - Merge Sort: 0.016 sec
+Run 7 - Quick Sort: 0.003 sec
+Run 8 - Bubble Sort: 2.034 sec
+Run 8 - Merge Sort: 0.015 sec
+Run 8 - Quick Sort: 0.003 sec
+Run 9 - Bubble Sort: 2.144 sec
+Run 9 - Merge Sort: 0.017 sec
+Run 9 - Quick Sort: 0.002 sec
+Run 10 - Bubble Sort: 2.275 sec
+Run 10 - Merge Sort: 0.018 sec
+Run 10 - Quick Sort: 0.003 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 2.199 sec
+Merge Sort Average: 0.0204 sec
+Quick Sort Average: 0.0031 sec
+
+=== Random Data (Size = 100000) ===
+Run 1 - Bubble Sort: 17.966 sec
+Run 1 - Merge Sort: 0.039 sec
+Run 1 - Quick Sort: 0.007 sec
+Run 2 - Bubble Sort: 17.314 sec
+Run 2 - Merge Sort: 0.037 sec
+Run 2 - Quick Sort: 0.006 sec
+Run 3 - Bubble Sort: 19.262 sec
+Run 3 - Merge Sort: 0.043 sec
+Run 3 - Quick Sort: 0.008 sec
+Run 4 - Bubble Sort: 19.331 sec
+Run 4 - Merge Sort: 0.035 sec
+Run 4 - Quick Sort: 0.006 sec
+Run 5 - Bubble Sort: 17.814 sec
+Run 5 - Merge Sort: 0.039 sec
+Run 5 - Quick Sort: 0.012 sec
+Run 6 - Bubble Sort: 17.006 sec
+Run 6 - Merge Sort: 0.036 sec
+Run 6 - Quick Sort: 0.007 sec
+Run 7 - Bubble Sort: 17.636 sec
+Run 7 - Merge Sort: 0.041 sec
+Run 7 - Quick Sort: 0.008 sec
+Run 8 - Bubble Sort: 19.922 sec
+Run 8 - Merge Sort: 0.054 sec
+Run 8 - Quick Sort: 0.01 sec
+Run 9 - Bubble Sort: 18.48 sec
+Run 9 - Merge Sort: 0.046 sec
+Run 9 - Quick Sort: 0.008 sec
+Run 10 - Bubble Sort: 17.64 sec
+Run 10 - Merge Sort: 0.035 sec
+Run 10 - Quick Sort: 0.006 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 18.2371 sec
+Merge Sort Average: 0.0405 sec
+Quick Sort Average: 0.0078 sec
+
+=== Partially Sorted Data (Size = 100000) ===
+Run 1 - Bubble Sort: 11.924 sec
+Run 1 - Merge Sort: 0.037 sec
+Run 1 - Quick Sort: 0.008 sec
+Run 2 - Bubble Sort: 12.208 sec
+Run 2 - Merge Sort: 0.03 sec
+Run 2 - Quick Sort: 0.006 sec
+Run 3 - Bubble Sort: 11.012 sec
+Run 3 - Merge Sort: 0.028 sec
+Run 3 - Quick Sort: 0.005 sec
+Run 4 - Bubble Sort: 11.935 sec
+Run 4 - Merge Sort: 0.029 sec
+Run 4 - Quick Sort: 0.005 sec
+Run 5 - Bubble Sort: 12.025 sec
+Run 5 - Merge Sort: 0.037 sec
+Run 5 - Quick Sort: 0.008 sec
+Run 6 - Bubble Sort: 12.435 sec
+Run 6 - Merge Sort: 0.029 sec
+Run 6 - Quick Sort: 0.006 sec
+Run 7 - Bubble Sort: 11.89 sec
+Run 7 - Merge Sort: 0.029 sec
+Run 7 - Quick Sort: 0.006 sec
+Run 8 - Bubble Sort: 12.034 sec
+Run 8 - Merge Sort: 0.032 sec
+Run 8 - Quick Sort: 0.007 sec
+Run 9 - Bubble Sort: 12.037 sec
+Run 9 - Merge Sort: 0.025 sec
+Run 9 - Quick Sort: 0.005 sec
+Run 10 - Bubble Sort: 10.82 sec
+Run 10 - Merge Sort: 0.028 sec
+Run 10 - Quick Sort: 0.006 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 11.832 sec
+Merge Sort Average: 0.0304 sec
+Quick Sort Average: 0.0062 sec
+
+=== Reverse Sorted Data (Size = 100000) ===
+Run 1 - Bubble Sort: 7.532 sec
+Run 1 - Merge Sort: 0.03 sec
+Run 1 - Quick Sort: 0.005 sec
+Run 2 - Bubble Sort: 8.086 sec
+Run 2 - Merge Sort: 0.032 sec
+Run 2 - Quick Sort: 0.005 sec
+Run 3 - Bubble Sort: 7.353 sec
+Run 3 - Merge Sort: 0.029 sec
+Run 3 - Quick Sort: 0.005 sec
+Run 4 - Bubble Sort: 8.528 sec
+Run 4 - Merge Sort: 0.029 sec
+Run 4 - Quick Sort: 0.005 sec
+Run 5 - Bubble Sort: 8.315 sec
+Run 5 - Merge Sort: 0.032 sec
+Run 5 - Quick Sort: 0.006 sec
+Run 6 - Bubble Sort: 7.994 sec
+Run 6 - Merge Sort: 0.029 sec
+Run 6 - Quick Sort: 0.005 sec
+Run 7 - Bubble Sort: 8.62 sec
+Run 7 - Merge Sort: 0.065 sec
+Run 7 - Quick Sort: 0.012 sec
+Run 8 - Bubble Sort: 10.023 sec
+Run 8 - Merge Sort: 0.031 sec
+Run 8 - Quick Sort: 0.006 sec
+Run 9 - Bubble Sort: 8.314 sec
+Run 9 - Merge Sort: 0.065 sec
+Run 9 - Quick Sort: 0.007 sec
+Run 10 - Bubble Sort: 9.435 sec
+Run 10 - Merge Sort: 0.036 sec
+Run 10 - Quick Sort: 0.006 sec
+--- Average over 10 runs ---
+Bubble Sort Average: 8.42 sec
+Merge Sort Average: 0.0378 sec
+Quick Sort Average: 0.0062 sec
+Press any key to continue . . .
