@@ -108,7 +108,7 @@ void testSorts(const string& label, int input[], int size, int repeats) {
 
 // ========== Main ==========
 int main() {
-    const int sizes[] = {1000, 10000, 50000, 100000};  // Different input sizes
+    const int sizes[] = {100, 500, 1000, 2000, 5000, 10000, 20000, 30000, 50000, 100000};  // Different input sizes
     const int numSizes = sizeof(sizes) / sizeof(sizes[0]);
     const int repeats = 10;  // Number of repetitions
     srand(time(0));
@@ -129,3 +129,4 @@ int main() {
         delete[] data;  }
     return 0;
 }
+
